@@ -1,4 +1,3 @@
-
 package com.acolita.deberes.semestre1;
 
 public class Matematicas {
@@ -6,7 +5,7 @@ public class Matematicas {
     private double nota;
 
     public Matematicas() {
-        this.nota = 20;
+        this.nota = 18;
     }
 
     public double getNota() {
